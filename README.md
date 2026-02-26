@@ -1,35 +1,11 @@
-DevOps Engineer | 4+ Years Experience
-AWS Certified Solutions Architect – Associate
-CI/CD • Kubernetes • Terraform • Docker • Linux • Monitoring
-## Project: AWS 3-Tier Architecture
+<h1 align="center">Hi 👋, I'm Nishant Singh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### Description
-Designed and deployed a highly available and secure 3-tier architecture on AWS.
+- 💬 Ask me about **I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle**
 
-### Tools & Technologies
-- AWS (EC2, VPC, RDS, ALB, Auto Scaling)
-- Linux
-- Security Groups & IAM
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Key Features
-- High Availability
-- Scalability
-- Fault Tolerance
-- Cost Optimized
-
-### Architecture Diagram
-(attach image)
-# Hi, I'm a DevOps Engineer 👋
-
-- 💼 4+ years of experience in DevOps & Cloud
-- ☁️ AWS Certified Solutions Architect – Associate
-- 🔧 CI/CD, Docker, Kubernetes, Terraform, Ansible
-- 📈 Monitoring: Prometheus & Grafana
-- 🐧 Strong Linux & Scripting
-
-## 📌 Key Projects
-✔ AWS Infrastructure Automation  
-✔ Kubernetes Production Deployment  
-✔ Jenkins CI/CD Pipelines  
-
-📫 Open for DevOps / Cloud Engineer roles
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
